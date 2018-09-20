@@ -935,7 +935,7 @@ header .arrow {
   box-sizing: content-box;
   max-width: 1170px;
   margin: 0 auto;
-
+  padding: 0 4%;
 }
 
 .contact p {
@@ -949,7 +949,6 @@ header .arrow {
   width: 100%;
   float: left;
   padding: 0 15%;
-  margin-left: 4%;
 }
 
 .contact form p {
