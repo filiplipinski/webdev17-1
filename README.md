@@ -1,4 +1,4 @@
-# webdessadv17-1
+# webdev17-1
 WebDev #17-1 challenge by Filip Lipiński. LIVE: https://filiplipinski.github.io/webdev17-1/
 
 
